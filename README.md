@@ -1,4 +1,4 @@
-# 🧮 NumberTheory-Based-Algorithms
+# 🧮 NumberTheory-Based-Algorithms !
 
 Welcome to **Number Theory Based Algorithms** — a comprehensive, hands-on collection of essential and advanced **Number Theory algorithms** implemented in both **Java** and **Python**.  
 This repository is designed for **competitive programmers**, **math enthusiasts**, and **algorithmic learners** who wish to deeply understand and efficiently implement number-theoretic techniques.
